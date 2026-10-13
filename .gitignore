@@ -1,0 +1,10 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+
+# Local task data (everyone running this app gets their own list)
+tasks.json
+
+# Editor/OS cruft
+.DS_Store
+.vscode/
