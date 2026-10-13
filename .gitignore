@@ -8,3 +8,4 @@ tasks.json
 # Editor/OS cruft
 .DS_Store
 .vscode/
+test_tasks.json
